@@ -22,7 +22,7 @@ The software was developed for use with the TAS prototype and Poseidon syringe p
 The system includes:
 
 * Poseidon syringe pumps
-* Arduino-based motor controllers
+* A4988 stepper motor drivers
 * Pressure sensors
 * Raspberry Pi/computer-based control
 * Custom TAS hardware
