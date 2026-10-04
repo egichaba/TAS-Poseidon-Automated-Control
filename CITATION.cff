@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "TAS-Poseidon Automated Control"
+message: "If you use this software, please cite the associated software record and manuscript."
+type: software
+
+authors:
+  - family-names: "Gichaba"
+    given-names: "Emmanuel M."
+  - family-names: "Sharma"
+    given-names: "Tasneem P."
+
+version: "1.0.0"
+date-released: 2026-10-04
+
+repository-code: "https://github.com/egichaba/TAS-Poseidon-Automated-Control"
