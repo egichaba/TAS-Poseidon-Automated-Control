@@ -12,7 +12,7 @@ The code supports communication between the control computer, Arduino-based pump
 
 * `Python/` — Python-based control and automation software
 * `Arduino/` — Arduino firmware used for pump and sensor control
-* `requirements.txt` — Python package requirements
+* `requirements.txt` — Python & Arduino package requirements
 * `CITATION.cff` — Citation information for this software
 
 ## Hardware
