@@ -1,0 +1,8 @@
+Board:
+Arduino Mega 2560 Rev3
+
+Libraries:
+AccelStepper
+ezButton
+SoftwareSerial
+EEPROM
