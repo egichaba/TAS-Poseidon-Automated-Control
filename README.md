@@ -24,6 +24,7 @@ The system includes:
 * Poseidon syringe pumps
 * A4988 stepper motor drivers
 * Pressure sensors
+* Arduino Mega 2560 Rev3
 * Raspberry Pi/computer-based control
 * Custom TAS hardware
 
